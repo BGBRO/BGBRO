@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya Dewa Anjasmara</h1>
-<h3 align="center">Mahasiswa Sistem Informasi semester 5 | UI/UX Designer &amp; Developer | Sedang belajar backend</h3>
+<h3 align="center">Mahasiswa Sistem Informasi semester 5 | UI/UX Designer &amp; Developer | Sedang belajar #AI </h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=bgbro&label=Profile%20views&color=0e75b6&style=flat" alt="bgbro" /></p>
 
